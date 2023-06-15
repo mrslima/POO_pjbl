@@ -1,0 +1,15 @@
+NOTA FISCAL
+Usuário: admin
+
+Lista de itens do carrinho:
+Nome: Tênis esportivo
+Preço: 149.99
+Cor: preto
+Categoria: Sapatos
+
+Nome: Tênis esportivo
+Preço: 149.99
+Cor: preto
+Categoria: Sapatos
+
+Valor Total: $299.98
